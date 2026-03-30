@@ -1,4 +1,18 @@
-# Hey, I'm Dan 👋
+```
+      ___           ___                 
+     /__/\         /  /\          ___   
+     \  \:\       /  /:/_        /__/|  
+      \__\:\     /  /:/ /\      |  |:|  
+  ___ /  /::\   /  /:/ /:/_     |  |:|  
+ /__/\  /:/\:\ /__/:/ /:/ /\  __|__|:|  
+ \  \:\/:/__\/ \  \:\/:/ /:/ /__/::::\  
+  \  \::/       \  \::/ /:/     ~\~~\:\ 
+   \  \:\        \  \:\/:/        \  \:\
+    \  \:\        \  \::/          \__\/
+     \__\/         \__\/                
+```
+
+# I'm Dan 👋
 
 **Lead Developer · Nantes, France**
 
@@ -29,17 +43,4 @@ I've been writing code professionally since 2016, mostly in the insurance & bank
 
 ---
 
-## 🚀 Side projects
-
-- **[Portfolio](https://dangeffroy.github.io)** — This very website, built with Astro, Svelte & a neobrutalist design system.
-- **[Deadlock Timer](https://dangeffroy.github.io/deadlock-timer/)** — In-game utility timer for Valve's Deadlock, tracking cooldowns & key events.
-- **[Blobby Cursor](https://dangeffroy.github.io/blobby)** — Interactive blob cursor experiment with Svelte & SVG filters.
-
----
-
-## 📫 Find me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-dangeffroy.github.io-black?style=flat&logo=github)](https://dangeffroy.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dan--geffroy-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dan-geffroy/)
-[![YouTube](https://img.shields.io/badge/YouTube-DanGeffroy-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/dangeffroy)
-[![Twitter / X](https://img.shields.io/badge/Twitter-adNNNNj-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/adNNNNj)
+## 🚀 Side projects  🢃
